@@ -40,7 +40,8 @@ st.markdown("""
     <style>
             /* REMOVE default top spacing */
     .block-container {
-        padding-top: 2rem !important;
+        padding-top: 2
+            rem !important;
     }
 
     /* Optional: also remove margin from body */
